@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+.olLayerGoogleCopyright {
+    right: 3px;
+    bottom: 2px;
+    left: auto;
+}
+
+.olLayerGooglePoweredBy {
+    left: 2px;
+    bottom: 2px;
+}
+
+.olControlMousePosition {
+	bottom: auto;
+	top: 0px;
+	right: 0px !important;
+	background: #eee;
+	height: 20px;
+	line-height: 20px;
+	padding: 0px 5px;
+	font-weight: bold;
+}
+
+.olLayerGoogleCopyright {
+	display: none !important;
+}
